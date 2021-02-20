@@ -11,7 +11,7 @@ Solution of different kind of algorithms challenges
     
    The result should be 
            
-       R = [3+2, 7, 4, 5+2, 8, 1+3+2, 6] = [5, 7, 4, 7, 8, 6, 6].
+       R = [3+2, 7, 4, 5+2, 8, 1+3+2, 6] = [5, 7, 4, 7, 8, 6, 6]
 
 2. FindMaxElementInUnimodalArray
 
@@ -21,6 +21,6 @@ Solution of different kind of algorithms challenges
    
    For example:
 
-       increasingAndDecreasing = [2, 3, 4, 21, 43, 52, 51, 18, 11, 9, 6, 1]. Max = 52.
+       increasingAndDecreasing = [2, 3, 4, 21, 43, 52, 51, 18, 11, 9, 6, 1]. Max = 52
        increasing = [2, 3, 4, 21, 43, 52, 67, 101, 211]. Max = 211
        decreasing = [73, 52, 51, 18, 11, 9, 6, 1]. Max = 73
