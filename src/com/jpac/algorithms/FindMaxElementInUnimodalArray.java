@@ -8,8 +8,8 @@ public class FindMaxElementInUnimodalArray {
     final int decreasing[] = {73, 52, 51, 18, 11, 9, 6, 1};
 
     System.out.println("Increasing and decreasing unimodal array: " + find(increasingAndDecreasing));
-    System.out.println("Increasing unimodal array: " + find(increasing));
-    System.out.println("Decreasing unimodal array: " + find(decreasing));
+    System.out.println("Increasing array: " + find(increasing));
+    System.out.println("Decreasing array: " + find(decreasing));
 
   }
 

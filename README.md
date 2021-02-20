@@ -15,7 +15,7 @@ Solution of different kind of algorithms challenges
 
 2. FindMaxElementInUnimodalArray
 
-   Definition: an unimodal array is one that has a sequence of increasing integers followed by a sequence of decreasing integers, just an increasing sequence of integers, or just a decreasing sequence of integers. All elements in the array must be unique.
+   Definition: an unimodal array is one that has a sequence of increasing integers followed by a sequence of decreasing integers. All elements in the array must be unique.
    
    Problem: given an unimodal array find its maximum element.
    
